@@ -1,0 +1,44 @@
+﻿
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title> @ViewData["Title"] - Free Home Shoppe Website Template | Home :: w3layouts</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="~/css/easy-responsive-tabs.css" rel="stylesheet" />
+	<link href="~/css/global.css" rel="stylesheet" />
+	<link href="~/css/site.css" rel="stylesheet" />
+	<link href="~/css/slider.css" rel="stylesheet" />
+	<script src="~/js/script.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+	<!-- Begin Wrap -->
+	<div class="wrap">
+		<!-- Begin Header -->
+		<partial name="NhuDinhDuc_Header" />
+		<!-- End Header -->
+		<!-- Begin Main -->
+		<div class="main">
+			@RenderBody();
+		</div>
+		<!-- End Main -->
+	</div>
+	<!-- End Wrap -->
+	<!-- Begin Footer -->
+	<partial name="NhuDinhDuc_Footer" />
+	<!-- End Footer -->
+	<script src="~/js/easing.js"></script>
+	<script src="~/js/easyResponsiveTabs.js"></script>
+	<script src="~/js/jquery-1.7.2.min.js"></script>
+	<script src="~/js/jquery.accordion.js"></script>
+	<script src="~/js/jquery.easing.js"></script>
+	<script src="~/js/move-top.js"></script>
+	<script src="~/js/site.js"></script>
+	<script src="~/js/slides.min.jquery.js"></script>
+	<script src="~/js/startstop-slider.js"></script>
+	@await RenderSectionAsync("Scripts",required:false);
+</body>
+</html>
+

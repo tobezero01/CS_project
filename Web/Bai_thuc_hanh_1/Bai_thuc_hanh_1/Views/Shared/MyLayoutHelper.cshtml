@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>@ViewData["Title"] - Management System</title>
+    <link href="~/css/styles.css" rel="stylesheet" />
+    <script src="~/js/scripts.js" crossorigin="anonymous"></script>
+</head>
+<body class="sb-nav-fixed">
+    <!-- Begin Top nav -->
+    <partial name="TopNav" />
+    <!-- End Top nav -->
+    <div id="layoutSidenav">
+        <!-- Begin Left menu -->
+        @await Component.InvokeAsync("Render"); <!-- Gọi đến Component,   Sử dụng truyền thông không đồng bộ-->
+        <!-- End Left menu -->
+        <!-- Begin Right content -->
+        <div id="layoutSidenav_content">
+            <!-- Begin Main -->
+            <main>
+                @RenderBody()
+            </main>
+            <!-- End Main -->
+            <!-- Begin Footer -->
+            <partial name="Footer" />
+            <!-- End Footer -->
+        </div>
+        <!-- End Right content -->
+    </div>
+    <script src="js/scripts.js"></script>
+    @RenderSection("Scripts",required:false);
+</body>
+</html>

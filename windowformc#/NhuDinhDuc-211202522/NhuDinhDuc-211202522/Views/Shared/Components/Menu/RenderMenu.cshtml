@@ -1,0 +1,9 @@
+﻿@model IEnumerable<LoaiHang>
+<ul>
+	<li class="active"><a href="#">Nhu DInh DUc</a></li>
+	    @foreach(var s in Model)
+    {
+		<li><a href="#" id="@s.MaLoai" onclick="MenuFunction(event)">@s.TenLoai</a></li>
+	}
+	<div class="clear"></div>
+</ul>

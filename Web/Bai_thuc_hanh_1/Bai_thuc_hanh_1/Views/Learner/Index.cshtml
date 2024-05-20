@@ -1,0 +1,162 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+@*  @model IEnumerable<Learner>  *@ 
+<div class="ms-2 mx-2" id="contentContainer">
+    <h1>Learner List</h1>
+    <form action="#" class="hm-searchbox" id="searchForm">
+        <input type="text" placeholder="Enter your search key ..." id="searchInput">
+        <button class="li-btn" type="submit"><i class="fa fa-search"></i></button>
+    </form>
+    @await Component.InvokeAsync("Major")
+    <div id="content">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Mã</th>
+                    <th>Tên</th>
+                    <th>Họ</th>
+                    <th>Ngành</th>
+                    <th>Ngày nhập học</th>
+                    <th>Chức năng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var s in Model)
+                {
+                        <tr>
+                            <td>@s.LearnerId</td>
+                            <td>@s.FirstMidName</td>
+                            <td>@s.LastName</td>
+                            <td>@s.Major.MajorName</td>
+                            <td>@s.EnrollmentDate</td>
+                            <td><a asp-action="Edit" asp-route-id="@s.LearnerId">Edit</a>|<a asp-action="Delete" asp-route-id="@s.LearnerId">Delete</a></td>
+                        </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <a asp-action="Create" class="btn btn-primary">Create New Student</a>
+    <div class="paginatoin-area">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 pt-xs-15">
+                <p>Showing 1-12 of 13 item(s)</p>
+            </div>
+            <div class="col-lg-6 col-md-6" id="paginationContainer">
+                <ul class="pagination-box pt-xs-20 pb-xs-15">
+                    <li>
+                        <a href="#" class="Previous" data-page="@Model.CurrentPage"><i class="fa fa-chevron-left"></i> Previous</a>
+                    </li>
+                    @foreach (var pageNumber in Model.PageNumbers)
+                    {
+                        <li class="@(Model.CurrentPage == pageNumber ? "active" : "")">
+                            <a href="#" class="PageNumber" data-page="@pageNumber">
+                                @pageNumber
+                            </a>
+                        </li>
+                    }
+                    <li>
+                        <a href="#" class="Next" value="@Model.TotalPages" data-page="@Model.CurrentPage"> Next <i class="fa fa-chevron-right"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <script>
+        $("li").click(function (e) {
+            var id = $(this).attr("id");
+            //alert(id)
+            $.ajax({
+                url: "/Learner/LearnerByMajorID",
+                data: { mid: id },
+                success: function (response) {
+                    $("div#content").html(response);
+                }
+            });
+        });
+        // Bắt sự kiện khi click vào nút "Previous"
+        $(".pagination-box").on("click", "a.Previous", function (e) {
+            console.log("Sự kiện 5 xảy ra");
+            e.preventDefault();
+            var currentPage = $(this).data("page");
+            if (currentPage > 1) {
+                var currentFilter = "";
+               
+                if (searchTerm) {  
+                    currentFilter = searchTerm;
+                }
+
+                loadPagination(currentPage - 1, currentFilter);
+            }
+
+        });
+
+        // Bắt sự kiện khi click vào nút "Next"
+        $(".pagination-box").on("click", "a.Next", function (e) {
+            e.preventDefault();
+            var currentPage = parseInt($(this).data("page"));
+            var totalPages = $(this).attr("value");
+            if (currentPage < totalPages) {
+                var currentFilter = "";
+                if (searchTerm) {
+                    currentFilter = searchTerm;
+                }
+                loadPagination(currentPage + 1, currentFilter);
+            }
+
+        });
+
+        // Bắt sự kiện khi click vào số trang
+        $(".pagination-box").on("click", "a.PageNumber", function (e) {
+            var currentFilter = "";
+            var actionName = "";
+            if (selectedCategories && selectedCategories.length > 0) {
+                actionName = "FilterSort";
+                currentFilter = JSON.stringify(selectedCategories)
+            }
+            else if (searchTerm) {
+                actionName = "SearchSort";
+                currentFilter = searchTerm;
+            }
+            else {
+                actionName = "FilterSort";
+            }
+            e.preventDefault();
+            var page = $(this).data("page");
+            loadPagination(page, currentFilter);
+        });
+        function loadPagination(page, currentFilter) {
+            $.ajax({
+                url: '/Learner/SearchSort' ,
+                type: 'GET',
+                data: {
+                    page: page,
+                    currentFilter: currentFilter
+                },
+                success: function (data) {
+                    // Cập nhật partial view phân trang
+                    $("#contentContainer").html(data);
+                }
+            });
+        }
+        var searchTerm = "";
+        $("#searchForm").on("submit", function (e) {
+            e.preventDefault(); // Ngăn chặn form tự động gửi đi (tránh làm trang web tải lại)
+
+            searchTerm = $("#searchInput").val();
+
+            $.ajax({
+                url: "/Learner/SearchSort",
+                data: { searchString: searchTerm },
+                success: function (response) {
+                    $("#contentContainer").html(response);
+                }
+            });
+        });
+    </script>
+}

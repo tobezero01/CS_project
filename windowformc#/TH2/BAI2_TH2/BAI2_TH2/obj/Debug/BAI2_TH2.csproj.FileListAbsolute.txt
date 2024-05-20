@@ -1,0 +1,10 @@
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\bin\Debug\BAI2_TH2.exe.config
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\bin\Debug\BAI2_TH2.exe
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\bin\Debug\BAI2_TH2.pdb
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.csproj.AssemblyReference.cache
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.Form1.resources
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.Properties.Resources.resources
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.csproj.GenerateResource.cache
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.exe
+D:\C#\windowformc#\BAI2_TH2\BAI2_TH2\obj\Debug\BAI2_TH2.pdb

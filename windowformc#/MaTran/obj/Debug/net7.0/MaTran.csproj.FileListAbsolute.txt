@@ -1,0 +1,14 @@
+D:\C#\windowformc#\MaTran\bin\Debug\net7.0\MaTran.exe
+D:\C#\windowformc#\MaTran\bin\Debug\net7.0\MaTran.deps.json
+D:\C#\windowformc#\MaTran\bin\Debug\net7.0\MaTran.runtimeconfig.json
+D:\C#\windowformc#\MaTran\bin\Debug\net7.0\MaTran.dll
+D:\C#\windowformc#\MaTran\bin\Debug\net7.0\MaTran.pdb
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.AssemblyInfoInputs.cache
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.AssemblyInfo.cs
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.dll
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\refint\MaTran.dll
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.pdb
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\MaTran.genruntimeconfig.cache
+D:\C#\windowformc#\MaTran\obj\Debug\net7.0\ref\MaTran.dll

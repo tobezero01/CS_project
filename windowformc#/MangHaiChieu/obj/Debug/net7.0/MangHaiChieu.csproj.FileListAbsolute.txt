@@ -1,0 +1,14 @@
+D:\C#\C# windowform\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.exe
+D:\C#\C# windowform\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.deps.json
+D:\C#\C# windowform\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.runtimeconfig.json
+D:\C#\C# windowform\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.dll
+D:\C#\C# windowform\MangHaiChieu\bin\Debug\net7.0\MangHaiChieu.pdb
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.AssemblyInfoInputs.cache
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.AssemblyInfo.cs
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.csproj.CoreCompileInputs.cache
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.dll
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\refint\MangHaiChieu.dll
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.pdb
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\MangHaiChieu.genruntimeconfig.cache
+D:\C#\C# windowform\MangHaiChieu\obj\Debug\net7.0\ref\MangHaiChieu.dll

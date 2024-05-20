@@ -1,0 +1,138 @@
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\appsettings.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.staticwebassets.runtime.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.exe
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.deps.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.runtimeconfig.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.pdb
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.AssemblyReference.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.AssemblyInfoInputs.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.AssemblyInfo.cs
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.RazorAssemblyInfo.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.RazorAssemblyInfo.cs
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.Bai_thuc_hanh_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Bai_thuc_hanh_1.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bai_thuc_hanh_1.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bai_thuc_hanh_1.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\bundle\Bai_thuc_hanh_1.styles.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\projectbundle\Bai_thuc_hanh_1.bundle.scp.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.CopyComplete
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\refint\Bai_thuc_hanh_1.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.pdb
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.genruntimeconfig.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\ref\Bai_thuc_hanh_1.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\appsettings.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.staticwebassets.runtime.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.exe
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.deps.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.runtimeconfig.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Bai_thuc_hanh_1.pdb
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Humanizer.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.AssemblyReference.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.AssemblyInfoInputs.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.AssemblyInfo.cs
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.CoreCompileInputs.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.RazorAssemblyInfo.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.RazorAssemblyInfo.cs
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.Bai_thuc_hanh_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Bai_thuc_hanh_1.props
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bai_thuc_hanh_1.props
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bai_thuc_hanh_1.props
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\bundle\Bai_thuc_hanh_1.styles.css
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\scopedcss\projectbundle\Bai_thuc_hanh_1.bundle.scp.css
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.csproj.CopyComplete
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\refint\Bai_thuc_hanh_1.dll
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.pdb
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\Bai_thuc_hanh_1.genruntimeconfig.cache
+D:\C#\Web\Bai_thuc_hanh_1\Bai_thuc_hanh_1\obj\Debug\net6.0\ref\Bai_thuc_hanh_1.dll

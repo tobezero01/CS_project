@@ -1,0 +1,14 @@
+D:\C#\CSProject\lambda\bin\Debug\net7.0\lambda.exe
+D:\C#\CSProject\lambda\bin\Debug\net7.0\lambda.deps.json
+D:\C#\CSProject\lambda\bin\Debug\net7.0\lambda.runtimeconfig.json
+D:\C#\CSProject\lambda\bin\Debug\net7.0\lambda.dll
+D:\C#\CSProject\lambda\bin\Debug\net7.0\lambda.pdb
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.AssemblyInfoInputs.cache
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.AssemblyInfo.cs
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.csproj.CoreCompileInputs.cache
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.dll
+D:\C#\CSProject\lambda\obj\Debug\net7.0\refint\lambda.dll
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.pdb
+D:\C#\CSProject\lambda\obj\Debug\net7.0\lambda.genruntimeconfig.cache
+D:\C#\CSProject\lambda\obj\Debug\net7.0\ref\lambda.dll

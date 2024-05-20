@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/NhuDinhDuc_211202522_Layout.cshtml";
+}
+@model List<Product>
+
+<div class="container">
+	<!-- main left -->
+	<partial name="NhuDinhDuc_211202522_MainLeft" />
+	<!-- //main left -->
+	<!-- main right -->
+	<div id="mainright" class="agileinfo-ads-display col-md-9">
+		<div class="wrapper">
+			@foreach (var i in Model)
+			{
+				<div class="col-xs-4 product-men">
+					<div class="men-pro-item">
+						<div class="men-thumb-item">
+							<img src="~/images/@i.Image" alt="">
+						</div>
+						<div class="item-info-product ">
+							<h4>
+								<a href="single.html">@i.Name</a>
+							</h4>
+							<div class="info-product-price">
+								<span class="item_price">@i.UnitPrice</span>
+							</div>
+							<div class="snipcart-details">
+								<a href="" class="button">Edit</a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			}
+		</div>
+	</div>
+	<!-- //main right -->
+</div>
+

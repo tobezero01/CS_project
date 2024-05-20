@@ -1,0 +1,10 @@
+D:\C#\windowformc#\Lab2_2\Lab2_2\bin\Debug\Lab2_2.exe.config
+D:\C#\windowformc#\Lab2_2\Lab2_2\bin\Debug\Lab2_2.exe
+D:\C#\windowformc#\Lab2_2\Lab2_2\bin\Debug\Lab2_2.pdb
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.csproj.AssemblyReference.cache
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.Form1.resources
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.Properties.Resources.resources
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.csproj.GenerateResource.cache
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.exe
+D:\C#\windowformc#\Lab2_2\Lab2_2\obj\Debug\Lab2_2.pdb

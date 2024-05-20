@@ -1,0 +1,10 @@
+D:\C#\windowformc#\TH4_B1\TH4_B1\bin\Debug\TH4_B1.exe.config
+D:\C#\windowformc#\TH4_B1\TH4_B1\bin\Debug\TH4_B1.exe
+D:\C#\windowformc#\TH4_B1\TH4_B1\bin\Debug\TH4_B1.pdb
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.csproj.AssemblyReference.cache
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.Form1.resources
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.Properties.Resources.resources
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.csproj.GenerateResource.cache
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.exe
+D:\C#\windowformc#\TH4_B1\TH4_B1\obj\Debug\TH4_B1.pdb

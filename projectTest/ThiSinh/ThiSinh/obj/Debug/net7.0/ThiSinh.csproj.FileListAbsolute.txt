@@ -1,0 +1,14 @@
+D:\C#\projectTest\ThiSinh\ThiSinh\bin\Debug\net7.0\ThiSinh.exe
+D:\C#\projectTest\ThiSinh\ThiSinh\bin\Debug\net7.0\ThiSinh.deps.json
+D:\C#\projectTest\ThiSinh\ThiSinh\bin\Debug\net7.0\ThiSinh.runtimeconfig.json
+D:\C#\projectTest\ThiSinh\ThiSinh\bin\Debug\net7.0\ThiSinh.dll
+D:\C#\projectTest\ThiSinh\ThiSinh\bin\Debug\net7.0\ThiSinh.pdb
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.AssemblyInfoInputs.cache
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.AssemblyInfo.cs
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.csproj.CoreCompileInputs.cache
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.dll
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\refint\ThiSinh.dll
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.pdb
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ThiSinh.genruntimeconfig.cache
+D:\C#\projectTest\ThiSinh\ThiSinh\obj\Debug\net7.0\ref\ThiSinh.dll

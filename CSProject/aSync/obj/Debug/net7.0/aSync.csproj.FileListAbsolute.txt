@@ -1,0 +1,14 @@
+D:\C#\CSProject\aSync\bin\Debug\net7.0\aSync.exe
+D:\C#\CSProject\aSync\bin\Debug\net7.0\aSync.deps.json
+D:\C#\CSProject\aSync\bin\Debug\net7.0\aSync.runtimeconfig.json
+D:\C#\CSProject\aSync\bin\Debug\net7.0\aSync.dll
+D:\C#\CSProject\aSync\bin\Debug\net7.0\aSync.pdb
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.AssemblyInfoInputs.cache
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.AssemblyInfo.cs
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.csproj.CoreCompileInputs.cache
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.dll
+D:\C#\CSProject\aSync\obj\Debug\net7.0\refint\aSync.dll
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.pdb
+D:\C#\CSProject\aSync\obj\Debug\net7.0\aSync.genruntimeconfig.cache
+D:\C#\CSProject\aSync\obj\Debug\net7.0\ref\aSync.dll

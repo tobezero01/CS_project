@@ -1,0 +1,11 @@
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\bin\Debug\VD1_TH2.exe.config
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\bin\Debug\VD1_TH2.exe
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\bin\Debug\VD1_TH2.pdb
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.csproj.AssemblyReference.cache
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.Form2.resources
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.Properties.Resources.resources
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.csproj.GenerateResource.cache
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.exe
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.pdb
+D:\C#\windowformc#\VD1_TH2\VD1_TH2\obj\Debug\VD1_TH2.Form1.resources

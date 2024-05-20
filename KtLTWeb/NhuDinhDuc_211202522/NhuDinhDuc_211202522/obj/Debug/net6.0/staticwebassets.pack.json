@@ -1,0 +1,725 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\NhuDinhDuc_211202522.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NhuDinhDuc_211202522.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\images\\a1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a10.jpg",
+      "PackagePath": "staticwebassets\\images\\a10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a11.jpg",
+      "PackagePath": "staticwebassets\\images\\a11.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a12.jpg",
+      "PackagePath": "staticwebassets\\images\\a12.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\images\\a2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\images\\a3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a4.jpg",
+      "PackagePath": "staticwebassets\\images\\a4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a5.jpg",
+      "PackagePath": "staticwebassets\\images\\a5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a6.jpg",
+      "PackagePath": "staticwebassets\\images\\a6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a7.jpg",
+      "PackagePath": "staticwebassets\\images\\a7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a8.jpg",
+      "PackagePath": "staticwebassets\\images\\a8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\a9.jpg",
+      "PackagePath": "staticwebassets\\images\\a9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\about2.jpg",
+      "PackagePath": "staticwebassets\\images\\about2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bv1.png",
+      "PackagePath": "staticwebassets\\images\\bv1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bv2.png",
+      "PackagePath": "staticwebassets\\images\\bv2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bv3.png",
+      "PackagePath": "staticwebassets\\images\\bv3.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bv4.png",
+      "PackagePath": "staticwebassets\\images\\bv4.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\bv5.png",
+      "PackagePath": "staticwebassets\\images\\bv5.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\images\\close_1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\contact2.jpg",
+      "PackagePath": "staticwebassets\\images\\contact2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\d1.jpg",
+      "PackagePath": "staticwebassets\\images\\d1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\d2.jpg",
+      "PackagePath": "staticwebassets\\images\\d2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\d3.jpg",
+      "PackagePath": "staticwebassets\\images\\d3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\d4.jpg",
+      "PackagePath": "staticwebassets\\images\\d4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\d5.jpg",
+      "PackagePath": "staticwebassets\\images\\d5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\hh1.png",
+      "PackagePath": "staticwebassets\\images\\hh1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\hh2.png",
+      "PackagePath": "staticwebassets\\images\\hh2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\hh3.png",
+      "PackagePath": "staticwebassets\\images\\hh3.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\hh4.png",
+      "PackagePath": "staticwebassets\\images\\hh4.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\hh5.png",
+      "PackagePath": "staticwebassets\\images\\hh5.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k1.jpg",
+      "PackagePath": "staticwebassets\\images\\k1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k10.jpg",
+      "PackagePath": "staticwebassets\\images\\k10.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k11.jpg",
+      "PackagePath": "staticwebassets\\images\\k11.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k12.jpg",
+      "PackagePath": "staticwebassets\\images\\k12.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k2.jpg",
+      "PackagePath": "staticwebassets\\images\\k2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k3.jpg",
+      "PackagePath": "staticwebassets\\images\\k3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k4.jpg",
+      "PackagePath": "staticwebassets\\images\\k4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k5.jpg",
+      "PackagePath": "staticwebassets\\images\\k5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k6.jpg",
+      "PackagePath": "staticwebassets\\images\\k6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k7.jpg",
+      "PackagePath": "staticwebassets\\images\\k7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k8.jpg",
+      "PackagePath": "staticwebassets\\images\\k8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\k9.jpg",
+      "PackagePath": "staticwebassets\\images\\k9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\left.png",
+      "PackagePath": "staticwebassets\\images\\left.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\images\\m1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\images\\m2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\images\\m3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk4.jpg",
+      "PackagePath": "staticwebassets\\images\\mk4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk5.jpg",
+      "PackagePath": "staticwebassets\\images\\mk5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk6.jpg",
+      "PackagePath": "staticwebassets\\images\\mk6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk7.jpg",
+      "PackagePath": "staticwebassets\\images\\mk7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk8.jpg",
+      "PackagePath": "staticwebassets\\images\\mk8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\mk9.jpg",
+      "PackagePath": "staticwebassets\\images\\mk9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\move-up.png",
+      "PackagePath": "staticwebassets\\images\\move-up.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\nav.png",
+      "PackagePath": "staticwebassets\\images\\nav.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\nut1.png",
+      "PackagePath": "staticwebassets\\images\\nut1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay1.png",
+      "PackagePath": "staticwebassets\\images\\pay1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay2.png",
+      "PackagePath": "staticwebassets\\images\\pay2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay3.png",
+      "PackagePath": "staticwebassets\\images\\pay3.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay4.png",
+      "PackagePath": "staticwebassets\\images\\pay4.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay5.png",
+      "PackagePath": "staticwebassets\\images\\pay5.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay6.png",
+      "PackagePath": "staticwebassets\\images\\pay6.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay7.png",
+      "PackagePath": "staticwebassets\\images\\pay7.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay8.png",
+      "PackagePath": "staticwebassets\\images\\pay8.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\pay9.png",
+      "PackagePath": "staticwebassets\\images\\pay9.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\paypal.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\right.png",
+      "PackagePath": "staticwebassets\\images\\right.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s1.jpg",
+      "PackagePath": "staticwebassets\\images\\s1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s6.jpg",
+      "PackagePath": "staticwebassets\\images\\s6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s7.jpg",
+      "PackagePath": "staticwebassets\\images\\s7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s8.jpg",
+      "PackagePath": "staticwebassets\\images\\s8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\s9.jpg",
+      "PackagePath": "staticwebassets\\images\\s9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\se1.jpg",
+      "PackagePath": "staticwebassets\\images\\se1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\se2.jpg",
+      "PackagePath": "staticwebassets\\images\\se2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\se3.jpg",
+      "PackagePath": "staticwebassets\\images\\se3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\si.jpg",
+      "PackagePath": "staticwebassets\\images\\si.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\si2.jpg",
+      "PackagePath": "staticwebassets\\images\\si2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\si3.jpg",
+      "PackagePath": "staticwebassets\\images\\si3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\star1.png",
+      "PackagePath": "staticwebassets\\images\\star1.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\star22.png",
+      "PackagePath": "staticwebassets\\images\\star22.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\tab3.png",
+      "PackagePath": "staticwebassets\\images\\tab3.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\images\\videoimg2.png",
+      "PackagePath": "staticwebassets\\images\\videoimg2.png"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\KtLTWeb\\NhuDinhDuc_211202522\\NhuDinhDuc_211202522\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NhuDinhDuc_211202522.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NhuDinhDuc_211202522.props",
+      "PackagePath": "build\\NhuDinhDuc_211202522.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NhuDinhDuc_211202522.props",
+      "PackagePath": "buildMultiTargeting\\NhuDinhDuc_211202522.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NhuDinhDuc_211202522.props",
+      "PackagePath": "buildTransitive\\NhuDinhDuc_211202522.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

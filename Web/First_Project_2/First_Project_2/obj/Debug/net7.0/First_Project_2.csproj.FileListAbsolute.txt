@@ -1,0 +1,40 @@
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\appsettings.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.staticwebassets.runtime.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.exe
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.deps.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.runtimeconfig.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\bin\Debug\net7.0\First_Project_2.pdb
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.AssemblyInfoInputs.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.AssemblyInfo.cs
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.RazorAssemblyInfo.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.RazorAssemblyInfo.cs
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets\msbuild.First_Project_2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets\msbuild.build.First_Project_2.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.First_Project_2.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.First_Project_2.props
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\scopedcss\bundle\First_Project_2.styles.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\scopedcss\projectbundle\First_Project_2.bundle.scp.css
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\refint\First_Project_2.dll
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.pdb
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.genruntimeconfig.cache
+C:\Users\Nguyen The Trung\Desktop\ASP.NET_MVC\First_Project_2\First_Project_2\obj\Debug\net7.0\ref\First_Project_2.dll
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.AssemblyInfoInputs.cache
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.AssemblyInfo.cs
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.csproj.CoreCompileInputs.cache
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.RazorAssemblyInfo.cache
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.RazorAssemblyInfo.cs
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.dll
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\refint\First_Project_2.dll
+D:\C#\Web\First_Project_2\First_Project_2\obj\Debug\net7.0\First_Project_2.pdb

@@ -1,0 +1,28 @@
+D:\C#\C# windowform\fraction\bin\Debug\net7.0\fraction.exe
+D:\C#\C# windowform\fraction\bin\Debug\net7.0\fraction.deps.json
+D:\C#\C# windowform\fraction\bin\Debug\net7.0\fraction.runtimeconfig.json
+D:\C#\C# windowform\fraction\bin\Debug\net7.0\fraction.dll
+D:\C#\C# windowform\fraction\bin\Debug\net7.0\fraction.pdb
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.AssemblyInfoInputs.cache
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.AssemblyInfo.cs
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.csproj.CoreCompileInputs.cache
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.dll
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\refint\fraction.dll
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.pdb
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\fraction.genruntimeconfig.cache
+D:\C#\C# windowform\fraction\obj\Debug\net7.0\ref\fraction.dll
+D:\C#\windowformc#\fraction\bin\Debug\net7.0\fraction.exe
+D:\C#\windowformc#\fraction\bin\Debug\net7.0\fraction.deps.json
+D:\C#\windowformc#\fraction\bin\Debug\net7.0\fraction.runtimeconfig.json
+D:\C#\windowformc#\fraction\bin\Debug\net7.0\fraction.dll
+D:\C#\windowformc#\fraction\bin\Debug\net7.0\fraction.pdb
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.AssemblyInfoInputs.cache
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.AssemblyInfo.cs
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.dll
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\refint\fraction.dll
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.pdb
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\fraction.genruntimeconfig.cache
+D:\C#\windowformc#\fraction\obj\Debug\net7.0\ref\fraction.dll

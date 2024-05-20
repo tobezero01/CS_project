@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d176e6ea493046a5951d2e0e8fcdba1f" Name="Diagram1">
+        <EntityTypeShape EntityType="CarRentalModel.CarRentalRecord" Width="1.5" PointX="5.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarRentalModel.Role" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarRentalModel.TypeOfCar" Width="1.5" PointX="8.375" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarRentalModel.userApp" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CarRentalModel.UserRole" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="CarRentalModel.FK__CarRental__TypeO__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="CarRentalModel.FK__UserRole__roleid__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="CarRentalModel.FK__UserRole__userid__6D0D32F4" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="CarRentalModel.Invoice" Width="1.5" PointX="3.625" PointY="4.375" />
+        <AssociationConnector Association="CarRentalModel.FK__Invoice__CarRent__0A9D95DB" />
+        <AssociationConnector Association="CarRentalModel.FK__Invoice__UserApp__09A971A2" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

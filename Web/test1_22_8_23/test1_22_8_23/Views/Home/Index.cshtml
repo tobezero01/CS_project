@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string message = "foreignObject example with Scalable Vector Graphics (SVG)";
+    int value = 2;
+
+    var Person1 = new Person[]
+    {
+        new Person("trung", 19),
+        new Person("trung1", 19),
+        new Person("trung2", 119)
+    };
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+        <rect x="0" y="0" rx="10" ry="10" width="200" height="200"
+              stroke="black"
+              fill="none" />
+        <foreignObject x="20" y="20" width="160" height="160">
+            <p>@message</p>
+        </foreignObject>
+    </svg>
+    @switch (value)
+    {
+        case 1:
+            <p>The value is 1!</p>
+            break;
+        case 2:
+            <p>Your number is 1337!</p>
+            break;
+        default:
+            <p>Your number wasn't 1 or 1337.</p>
+            break;
+    }
+    @foreach (var person in Person1)
+    {
+        <p>Name: @person.Name</p>
+        <p>Age: @person.Age</p>
+    }
+</div>
+

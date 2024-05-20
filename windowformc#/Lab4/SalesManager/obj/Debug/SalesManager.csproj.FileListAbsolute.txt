@@ -1,0 +1,10 @@
+D:\NguyenTienDat\Lab4\SalesManager\bin\Debug\SalesManager.exe.config
+D:\NguyenTienDat\Lab4\SalesManager\bin\Debug\SalesManager.exe
+D:\NguyenTienDat\Lab4\SalesManager\bin\Debug\SalesManager.pdb
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.csproj.AssemblyReference.cache
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.Form1.resources
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.Properties.Resources.resources
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.csproj.GenerateResource.cache
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.csproj.CoreCompileInputs.cache
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.exe
+D:\NguyenTienDat\Lab4\SalesManager\obj\Debug\SalesManager.pdb

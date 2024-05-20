@@ -1,0 +1,10 @@
+Scaffold-DbContext "Data Source=DESKTOP-57GSE3G\SQLEXPRESS; Initial Catalog=QLHangHoa; Persist Security Info=True; User ID=sa; Password=abc123;" Microsoft.EntityFrameworkCore.SqlServer -Project Duc_211020522 -OutputDir Models
+
+
+builder.Services.AddDbContext<QLHangHoaContext>(e =>
+  e.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+"ConnectionStrings": {
+  "DefaultConnection": "Data Source=(local); Initial Catalog=QLHangHoa; Persist Security Info=True; User ID=sa; Password=abc123;"
+}

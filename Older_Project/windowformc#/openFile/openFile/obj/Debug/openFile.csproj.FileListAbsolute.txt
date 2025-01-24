@@ -1,0 +1,10 @@
+D:\C#\windowformc#\openFile\openFile\bin\Debug\openFile.exe.config
+D:\C#\windowformc#\openFile\openFile\bin\Debug\openFile.exe
+D:\C#\windowformc#\openFile\openFile\bin\Debug\openFile.pdb
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.csproj.AssemblyReference.cache
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.Form1.resources
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.Properties.Resources.resources
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.csproj.GenerateResource.cache
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.csproj.CoreCompileInputs.cache
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.exe
+D:\C#\windowformc#\openFile\openFile\obj\Debug\openFile.pdb

@@ -1,0 +1,14 @@
+The following products were installed:
+    • .NET SDK 8.0.404
+    • .NET Runtime 8.0.11
+    • ASP.NET Core Runtime 8.0.11
+    • .NET Windows Desktop Runtime 8.0.11
+
+This product collects usage data
+    • More information and opt-out https://aka.ms/dotnet-cli-telemetry
+
+Resources
+    • .NET Documentation https://aka.ms/dotnet-docs
+    • SDK Documentation https://aka.ms/dotnet-sdk-docs
+    • Release Notes https://aka.ms/dotnet8-release-notes
+    • Tutorials https://aka.ms/dotnet-tutorials

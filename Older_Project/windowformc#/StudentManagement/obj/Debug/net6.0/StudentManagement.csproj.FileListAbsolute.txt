@@ -1,0 +1,28 @@
+D:\C#\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+D:\C#\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+D:\C#\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+D:\C#\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+D:\C#\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+D:\C#\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+D:\C#\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+D:\C#\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
+D:\C#\C# windowform\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+D:\C#\C# windowform\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+D:\C#\C# windowform\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+D:\C#\C# windowform\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+D:\C#\C# windowform\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+D:\C#\C# windowform\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll

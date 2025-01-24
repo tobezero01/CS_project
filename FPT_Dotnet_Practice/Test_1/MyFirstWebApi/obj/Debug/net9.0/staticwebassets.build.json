@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "hGtbUK0IYd0ka4S9CNE6qXYOIxQd+vMb1lXn9b89voc=",
+  "Source": "MyFirstWebApi",
+  "BasePath": "_content/MyFirstWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstWebApi\\wwwroot",
+      "Source": "MyFirstWebApi",
+      "ContentRoot": "D:\\C#\\FPT_Dotnet_Practice\\Test_1\\MyFirstWebApi\\wwwroot\\",
+      "BasePath": "_content/MyFirstWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

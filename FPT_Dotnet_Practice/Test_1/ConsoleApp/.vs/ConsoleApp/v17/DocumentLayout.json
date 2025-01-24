@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConsoleApp",
+              "Title": "ConsoleApp.csproj",
               "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\Test_1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.csproj",
               "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\Test_1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-24T03:04:52.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T03:04:52.187Z"
             },
             {
               "$type": "Document",

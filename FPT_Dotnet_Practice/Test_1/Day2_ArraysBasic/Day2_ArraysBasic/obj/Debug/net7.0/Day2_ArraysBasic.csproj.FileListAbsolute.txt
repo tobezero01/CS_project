@@ -1,0 +1,15 @@
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\bin\Debug\net7.0\Day2_ArraysBasic.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\bin\Debug\net7.0\Day2_ArraysBasic.deps.json
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\bin\Debug\net7.0\Day2_ArraysBasic.runtimeconfig.json
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\bin\Debug\net7.0\Day2_ArraysBasic.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\bin\Debug\net7.0\Day2_ArraysBasic.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.AssemblyInfoInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.AssemblyInfo.cs
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.sourcelink.json
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\refint\Day2_ArraysBasic.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\Day2_ArraysBasic.genruntimeconfig.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\Day2_ArraysBasic\Day2_ArraysBasic\obj\Debug\net7.0\ref\Day2_ArraysBasic.dll

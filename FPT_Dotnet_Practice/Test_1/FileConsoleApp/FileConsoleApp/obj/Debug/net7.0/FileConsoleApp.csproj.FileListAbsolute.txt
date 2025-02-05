@@ -1,0 +1,15 @@
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\bin\Debug\net7.0\FileConsoleApp.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\bin\Debug\net7.0\FileConsoleApp.deps.json
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\bin\Debug\net7.0\FileConsoleApp.runtimeconfig.json
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\bin\Debug\net7.0\FileConsoleApp.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\bin\Debug\net7.0\FileConsoleApp.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.AssemblyInfoInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.AssemblyInfo.cs
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.sourcelink.json
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\refint\FileConsoleApp.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\FileConsoleApp.genruntimeconfig.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\FileConsoleApp\FileConsoleApp\obj\Debug\net7.0\ref\FileConsoleApp.dll

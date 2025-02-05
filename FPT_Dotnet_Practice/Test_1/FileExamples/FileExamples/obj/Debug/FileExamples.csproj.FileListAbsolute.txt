@@ -1,0 +1,7 @@
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\bin\Debug\FileExamples.exe.config
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\bin\Debug\FileExamples.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\bin\Debug\FileExamples.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\obj\Debug\FileExamples.csproj.AssemblyReference.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\obj\Debug\FileExamples.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\obj\Debug\FileExamples.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\FileExamples\FileExamples\obj\Debug\FileExamples.pdb

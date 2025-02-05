@@ -1,0 +1,15 @@
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.AssemblyInfoInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.AssemblyInfo.cs
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.sourcelink.json
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\bin\Debug\net7.0\OOP_Examples.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\bin\Debug\net7.0\OOP_Examples.deps.json
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\bin\Debug\net7.0\OOP_Examples.runtimeconfig.json
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\bin\Debug\net7.0\OOP_Examples.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\bin\Debug\net7.0\OOP_Examples.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\refint\OOP_Examples.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\OOP_Examples.genruntimeconfig.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\OOP_Examples\OOP_Examples\obj\Debug\net7.0\ref\OOP_Examples.dll

@@ -1,0 +1,112 @@
+using System;
+using System.Globalization;
+
+class Program
+{
+    static void Main()
+    {
+        // Nhập số lượng cá nhân
+        Console.Write("Enter the number of individuals: ");
+        int n;
+        while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
+        {
+            Console.WriteLine("Invalid number. Please enter a positive integer.");
+        }
+
+        // Sử dụng mảng string để lưu thông tin với định dạng "Name|BirthDate"
+        string[] birthdayList = new string[n];
+
+        for (int i = 0; i < n; i++)
+        {
+            Console.WriteLine($"\nIndividual {i + 1}:");
+
+            // Nhập tên và kiểm tra không rỗng
+            string name;
+            do
+            {
+                Console.Write("Enter name: ");
+                name = Console.ReadLine().Trim();
+                if (string.IsNullOrEmpty(name))
+                {
+                    Console.WriteLine("Name cannot be empty. Please enter again.");
+                }
+            } while (string.IsNullOrEmpty(name));
+
+            // Nhập ngày sinh và kiểm tra định dạng hợp lệ
+            DateTime birthDate;
+            bool validDate = false;
+            do
+            {
+                Console.Write("Enter birth date (dd/MM/yyyy or yyyy/MM/dd): ");
+                string dateInput = Console.ReadLine().Trim();
+
+                if (DateTime.TryParseExact(dateInput,
+                    new string[] { "dd/MM/yyyy", "yyyy/MM/dd" },
+                    CultureInfo.InvariantCulture, DateTimeStyles.None, out birthDate))
+                {
+                    validDate = true;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid date format. Please enter again.");
+                }
+            } while (!validDate);
+
+            // Lưu thông tin theo định dạng "Name|BirthDate" (sử dụng dd/MM/yyyy)
+            birthdayList[i] = $"{name}|{birthDate.ToString("dd/MM/yyyy")}";
+        }
+
+        // Hiển thị danh sách đã nhập
+        Console.WriteLine("\nList of entered individuals:");
+        DisplayBirthdayList(birthdayList);
+
+        // Sắp xếp danh sách theo ngày sinh (từ sớm nhất đến muộn nhất)
+        SortBirthdayList(birthdayList);
+
+        // Hiển thị danh sách đã sắp xếp
+        Console.WriteLine("\nSorted list (from earliest to latest birth date):");
+        DisplayBirthdayList(birthdayList);
+    }
+
+    // Phương thức sắp xếp danh sách sinh nhật sử dụng Bubble Sort
+    static void SortBirthdayList(string[] birthdayList)
+    {
+        int n = birthdayList.Length;
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int j = 0; j < n - 1 - i; j++)
+            {
+                // Lấy ngày sinh từ phần tử hiện tại và phần tử kế tiếp
+                DateTime date1 = GetBirthDateFromEntry(birthdayList[j]);
+                DateTime date2 = GetBirthDateFromEntry(birthdayList[j + 1]);
+
+                if (date1 > date2)
+                {
+                    // Hoán đổi nếu cần
+                    string temp = birthdayList[j];
+                    birthdayList[j] = birthdayList[j + 1];
+                    birthdayList[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    // Phương thức trích xuất ngày sinh từ chuỗi thông tin (định dạng "Name|BirthDate")
+    static DateTime GetBirthDateFromEntry(string entry)
+    {
+        string[] parts = entry.Split('|');
+        // Parse với định dạng dd/MM/yyyy
+        DateTime date = DateTime.ParseExact(parts[1], "dd/MM/yyyy", CultureInfo.InvariantCulture);
+        return date;
+    }
+
+    // Phương thức hiển thị danh sách sinh nhật
+    static void DisplayBirthdayList(string[] birthdayList)
+    {
+        foreach (string entry in birthdayList)
+        {
+            string[] parts = entry.Split('|');
+            Console.WriteLine($"Name: {parts[0]}, Birth Date: {parts[1]}");
+        }
+    }
+}

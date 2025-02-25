@@ -1,0 +1,6 @@
+@VivuStore.API_HostAddress = http://localhost:5052
+
+GET {{VivuStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

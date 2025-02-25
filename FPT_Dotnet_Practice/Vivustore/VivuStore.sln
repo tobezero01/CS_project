@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivuStore.Core", "VivuStore.Core\VivuStore.Core.csproj", "{56607670-0C1F-452E-8260-D7C3E33B51D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivuStore.Data", "VivuStore.Data\VivuStore.Data.csproj", "{2C16F019-171E-4451-9921-A7A82702731F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivuStore.API", "VivuStore.API\VivuStore.API.csproj", "{635A7CED-D4EC-4E7F-A61A-A7CC054737CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56607670-0C1F-452E-8260-D7C3E33B51D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56607670-0C1F-452E-8260-D7C3E33B51D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56607670-0C1F-452E-8260-D7C3E33B51D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56607670-0C1F-452E-8260-D7C3E33B51D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C16F019-171E-4451-9921-A7A82702731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C16F019-171E-4451-9921-A7A82702731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C16F019-171E-4451-9921-A7A82702731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C16F019-171E-4451-9921-A7A82702731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635A7CED-D4EC-4E7F-A61A-A7CC054737CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635A7CED-D4EC-4E7F-A61A-A7CC054737CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635A7CED-D4EC-4E7F-A61A-A7CC054737CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635A7CED-D4EC-4E7F-A61A-A7CC054737CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

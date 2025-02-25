@@ -1,0 +1,15 @@
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\bin\Debug\net7.0\NCTR.Practice.T01.Problem1.exe
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\bin\Debug\net7.0\NCTR.Practice.T01.Problem1.deps.json
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\bin\Debug\net7.0\NCTR.Practice.T01.Problem1.runtimeconfig.json
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\bin\Debug\net7.0\NCTR.Practice.T01.Problem1.dll
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\bin\Debug\net7.0\NCTR.Practice.T01.Problem1.pdb
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.AssemblyInfoInputs.cache
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.AssemblyInfo.cs
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.sourcelink.json
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.dll
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\refint\NCTR.Practice.T01.Problem1.dll
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.pdb
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\NCTR.Practice.T01.Problem1.genruntimeconfig.cache
+D:\C#\FPT_Dotnet_Practice\NCTR.Practice.T01.NhuDinhDuc\Problem1\obj\Debug\net7.0\ref\NCTR.Practice.T01.Problem1.dll

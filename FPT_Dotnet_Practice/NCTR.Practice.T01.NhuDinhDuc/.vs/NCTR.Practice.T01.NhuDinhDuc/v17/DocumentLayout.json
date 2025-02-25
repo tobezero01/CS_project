@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\exception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\exception\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\exception\\invalidcodeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\exception\\invalidcodeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\exception\\invalidcategoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\exception\\invalidcategoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\services\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\services\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\nctr.practice.t01.problem2\\services\\iproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D308E27-4F0E-4F3F-A608-ACEBB7347004}|NCTR.Practice.T01.Problem2\\NCTR.Practice.T01.Problem2.csproj|solutionrelative:nctr.practice.t01.problem2\\services\\iproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084EFCF6-C636-4B86-A12C-1543B6C603D0}|TestProject\\TestProject.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084EFCF6-C636-4B86-A12C-1543B6C603D0}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE3AA4E-D65C-4593-B324-6D95CE62C8B5}|Problem1\\NCTR.Practice.T01.Problem1.csproj|d:\\c#\\fpt_dotnet_practice\\nctr.practice.t01.nhudinhduc\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE3AA4E-D65C-4593-B324-6D95CE62C8B5}|Problem1\\NCTR.Practice.T01.Problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Services\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Services\\ProductManagement.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Services\\ProductManagement.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Services\\ProductManagement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAhwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:12:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Program.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Program.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:28:12.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductManagement.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Services\\IProductManagement.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Services\\IProductManagement.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Services\\IProductManagement.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Services\\IProductManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:21:18.988Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidCodeException.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\InvalidCodeException.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Exception\\InvalidCodeException.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\InvalidCodeException.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Exception\\InvalidCodeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:04:05.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\Problem1\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\\Program.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\Problem1\\Program.cs",
+              "RelativeToolTip": "Problem1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Exception\\ProductNotFoundException.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\ProductNotFoundException.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Exception\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidCategoryException.cs",
+              "DocumentMoniker": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\InvalidCategoryException.cs",
+              "RelativeDocumentMoniker": "NCTR.Practice.T01.Problem2\\Exception\\InvalidCategoryException.cs",
+              "ToolTip": "D:\\C#\\FPT_Dotnet_Practice\\NCTR.Practice.T01.NhuDinhDuc\\NCTR.Practice.T01.Problem2\\Exception\\InvalidCategoryException.cs",
+              "RelativeToolTip": "NCTR.Practice.T01.Problem2\\Exception\\InvalidCategoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:47.605Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

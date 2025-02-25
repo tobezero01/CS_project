@@ -1,0 +1,15 @@
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\bin\Debug\net7.0\ExceptionExample.exe
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\bin\Debug\net7.0\ExceptionExample.deps.json
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\bin\Debug\net7.0\ExceptionExample.runtimeconfig.json
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\bin\Debug\net7.0\ExceptionExample.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\bin\Debug\net7.0\ExceptionExample.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.AssemblyInfoInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.AssemblyInfo.cs
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.csproj.CoreCompileInputs.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.sourcelink.json
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\refint\ExceptionExample.dll
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.pdb
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ExceptionExample.genruntimeconfig.cache
+D:\C#\FPT_Dotnet_Practice\Test_1\ExceptionExample\ExceptionExample\obj\Debug\net7.0\ref\ExceptionExample.dll
